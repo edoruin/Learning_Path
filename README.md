@@ -26,12 +26,6 @@ es simplemente un banco para guardar mi progreso en general en todo lo referente
 
 [Documento excel](https://docs.google.com/spreadsheets/d/1Mo4sTbJyMjP7BXzp2VDUpTqL8HiYNUC9/edit?usp=sharing&ouid=102332637077244200946&rtpof=true&sd=true)
 
-### Descripcion
-ste documento es una investigación comparativa sobre las coberturas y costos de los planes básicos de salud ofrecidos por las ARS (Administradoras de Riesgos de Salud) afiliadas a ADARS, bajo el régimen contributivo del SFS, durante los años 2022 y 2023.
-
-#### Resultados
-La investigación concluye que comparar las ARS basándose únicamente en sus planes básicos de salud no es el enfoque más efectivo. Esto se debe a que las aseguradoras tienden a seguir las directrices de la SISARIL para el RC_SFS, lo que resulta en ofertas muy similares. Las verdaderas diferencias suelen encontrarse en los planes suplementarios o en los detalles específicos de copagos y límites.
-
 
 
 
