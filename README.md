@@ -13,7 +13,7 @@ es simplemente un banco para guardar mi progreso en general en todo lo referente
 
 # 2024
 
-## SEPTIEMBRE
+## ENERO
 
 
 
