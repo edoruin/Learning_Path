@@ -28,6 +28,68 @@ es simplemente un banco para guardar mi progreso en general en todo lo referente
 
 
 
+### ANÁLISIS DE LAS CADENA DE JUGUETERÍAS MEXICO TOY SALES
+
+[Carpeta del proyecto](https://drive.google.com/drive/folders/1dnsbGRRErDx45JT80346UNVYuCv7xB3l?usp=sharing)
+
+
+
+## JUNIO
+
+### Análisis descriptivo del estado del Hospital DR. Darío Contreras
+
+[ensayo](https://docs.google.com/document/d/1hq9Jmd4xrQ4da1b0aHe3iDWF-00NZkiwEHmpiULtqSo/edit?usp=sharing)
+
+
+### Credit Card Fraud Detection
+[Carpeta del proyecto](https://drive.google.com/drive/folders/1y_fq8o7sW0zSiySAebPVdewjfLAr4zN3?usp=sharing)
+
+
+## JULIO
+
+### Optimizacion de inventario de empresa Retail
+
+[Carpeta del proyecto](https://drive.google.com/drive/folders/1n-oJHLcrUSKFpgWu-svMPY38_lq6Rom4?usp=sharing)
+
+### comportamiento de Bancos Múltiples
+[enlace al proyecto](https://www.linkedin.com/in/edwin-jeremias-agustin/details/projects/)
+
+
+## DICIEMBRE
+
+### Accidentes de tránsitos en República Dominicana(2019-2024)
+
+[Enlace al ensayo](https://docs.google.com/document/d/1Cm1CPuhHqzJq4hVZD9Kyno2Z5I0tevfP1DZBfjeB6vo/edit?usp=drive_link)
+
+# 2025
+---
+
+## MARZO
+
+### practica estadistica- Tratamiento y preparación de los Datos
+
+[enlace a colab](https://colab.research.google.com/drive/1Fh93MbQKL30lVkvUOLUPyN6aJSjrfHEA?usp=sharing)
+
+### Analisis descriptivo de la encuesta nacional de las MIPYMES(ENMIPYMES)
+[enlace a colab](https://colab.research.google.com/drive/1juwbx4A43sLo_QF_AIqzAcl6fHTc7THo?usp=sharing)
+
+### Analisis de maximos goleadores del futbol
+
+[enlace a colab](https://colab.research.google.com/drive/1rbZtsbZFNTmkz49TeQdH3UYWUX-pd7gQ?usp=sharing)
+
+
+## ABRIL 
+
+### Task-Web- Pagina de tareas utiliazndo Render free services
+
+[enlace al ensayo](https://docs.google.com/document/d/1Epb2wdc94vKnOierzLkgwJuxloZBtvJc1VzzelX4D-A/edit?usp=sharing)
+
+[Repositorio](https://github.com/edoruin/task_web)
+
+
+### Practica de funciones en python
+
+[enlace al archivo zip](https://drive.google.com/drive/folders/1wLGKhPVK6vVZ9rkdK4bwSnsv8Bs2ijHB?usp=sharing)
 
 
 
