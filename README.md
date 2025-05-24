@@ -10,6 +10,10 @@
 este repositorio es un banco de todos los proyectos y practicas realizadas hasta la fecha
 es simplemente un banco para guardar mi progreso en general en todo lo referente a la tecnologia. El contenido referente a codigo del mismo puede ser utilizado por todo el mundo sin problemas. Los proyectos estaran organizados por fechas.
 
+#### English version:
+This repository is a place where I save some of my projects and practices relate data science, they're ordered by year and the visitants can use the code projects for any use they wish.
+
+
 ---
 
 # 2024
