@@ -85,7 +85,7 @@ This repository is a place where I save some of my projects and practices relate
 
 ## ABRIL 
 
-### Task-Web- Pagina de tareas utiliazndo Render free services
+### Task-Web- task page create by mean Render free services
 
 [enlace al ensayo](https://docs.google.com/document/d/1Epb2wdc94vKnOierzLkgwJuxloZBtvJc1VzzelX4D-A/edit?usp=sharing)
 
