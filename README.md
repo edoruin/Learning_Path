@@ -96,5 +96,6 @@ This repository is a place where I save some of my projects and practices relate
 
 [enlace al archivo zip](https://drive.google.com/drive/folders/1wLGKhPVK6vVZ9rkdK4bwSnsv8Bs2ijHB?usp=sharing)
 
+### Junio
 
-
+[Ejercicios academicos de ML](https://drive.google.com/drive/folders/1gyUPzDuCejFNDTms-ihqJClQA4JvCJJi?usp=sharing)
